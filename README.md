@@ -1,4 +1,4 @@
-![image](logo/logo.webp)
+[![MasterHead](logo/logo.webp)]
 
 <h1 align="center">Hi 👋, I'm ProfCube</h1>
 <h3 align="center">A passionate student learning to code!</h3>

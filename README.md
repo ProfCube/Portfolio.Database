@@ -19,4 +19,4 @@
 - ⚡ Fun fact is that I have a notion page that keeps track of all my anime that I have watched 
 
 - ☕ Thank you looking at my Portfolio ✌🏼
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/3329079)<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />

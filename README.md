@@ -1,4 +1,4 @@
-[![MasterHead](https://cbx-prod.b-cdn.net/COLOURBOX32735112.jpg?width=1000&height=1000&quality=100)]()
+[![MasterHead](https://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg?width=1000&height=1000&quality=100)]()
 
 <h1 align="center">Hi 👋, I'm ProfCube</h1>
 <h3 align="center">A passionate student learning to code!</h3>

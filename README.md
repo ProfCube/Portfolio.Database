@@ -1,4 +1,4 @@
-[![MasterHead](https://cbx-prod.b-cdn.net/COLOURBOX32735112.jpg?width=800&height=800&quality=70)]()
+[![MasterHead](https://cbx-prod.b-cdn.net/COLOURBOX32735112.jpg?width=800&height=800&quality=100)]()
 
 <h1 align="center">Hi 👋, I'm ProfCube</h1>
 <h3 align="center">A passionate student learning to code!</h3>

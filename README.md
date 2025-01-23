@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/3353c40c-bba2-4b51-8d59-6a004f022520)]()
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)]()
 
 <h1 align="center">Hi 👋, I'm ProfCube</h1>
 <h3 align="center">A passionate student learning to code!</h3>

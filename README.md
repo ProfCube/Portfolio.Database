@@ -20,4 +20,4 @@
 
 - ☕ Thank you looking at my Portfolio ✌🏼
   
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" align="center"/>
+<p align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>

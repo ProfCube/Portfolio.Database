@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png](https://img.freepik.com/premium-vector/programming-typographic-header-students-learn-computer-science_277904-15137.jpg))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm ProfCube</h1>
 <h3 align="center">A passionate student learning to code!</h3>

@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently learning **Python, Java, C, C++, C#, HTML and CSS**
 
-- 👨‍💻 All of my projects are available at [GitHub]()
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/ProfCube/Portfolio-Database/tree/main)**
 
 - 💬 Ask me about **what im learning!**
 
-- 📫 How to reach me **[Discord](https://discord.gg/hsx7qCbgte)**
+- 📫 How to reach me <a href="https://discord.gg/hsx7qCbgte"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>

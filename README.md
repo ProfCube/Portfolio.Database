@@ -6,7 +6,7 @@
 
 <p><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></p>
 
-
+<pre>
 - 🔭 I’m currently working on **Expanding my Knowledge of coding!**
 
 - 🌱 I’m currently learning **Python, Java, C, C++, C#, HTML and CSS**
@@ -20,3 +20,5 @@
 - ⚡ Fun fact is that I have a notion page that keeps track of all my anime that I have watched 
 
 - ☕ Thank you looking at my Portfolio ✌🏼
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</pre>

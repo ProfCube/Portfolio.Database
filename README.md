@@ -4,7 +4,7 @@
 <h3 align="center">A passionate student learning to code!</h3>
 <img align="right" width=“400” height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 
-<p>![](https://hit.yhype.me/github/profile?account_id=30348072&color=blue&style=flat&abbreviated=true&label=PROFILE+VIEWS)</p>
+<p>![](https://komarev.com/ghpvc/?username=PrfCube&color=blue&style=flat&abbreviated=true&label=PROFILE+VIEWS)</p>
 
 - 🔭 I’m currently working on **Expanding my Knowledge of coding!**
 

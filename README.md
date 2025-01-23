@@ -14,4 +14,4 @@
 
 - 💬 Ask me about **what im learning!**
 
-- 📫 How to reach me <a href="https://discord.gg/hsx7qCbgte"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+- 📫 How to reach me <a href="https://discord.gg/hsx7qCbgte"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat" alt="Discord"></a>

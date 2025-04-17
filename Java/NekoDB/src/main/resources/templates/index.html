@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Nekos Customers</title>
+<style>
+    body {
+    background-color: lightblue;
+    }
+</style>
+</head>
+<body>
+<h1>Nekos Customers</h1>
+
+<h3>Search:</h3>
+<form th:action="@{/search}" method="get">
+    <input  type="text" name="query" placeholder="Search by name" required/>
+    <button type="submit">Search</button>
+</form>
+
+<form th:action="@{/create}" method="post">
+    <input type="text" name="name" placeholder="Name" th:value="${customer.name}" required />
+    <input type="email" name="email" placeholder="Email" th:value="${customer.email}" required />
+    <button type="submit">Add</button>
+</form>
+
+<ul>
+    <li th:each="c : ${customers}">
+        <span th:text="${c.name}"></span>
+        (Email: <span th:text="${c.email}"></span>)
+    </li>
+</ul>
+
+
+</body>
+</html>
